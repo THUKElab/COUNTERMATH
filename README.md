@@ -19,7 +19,7 @@ All evaluation data for COUNTERMATH is stored in the `data/` folder. The main da
 data/countermath_ver1.1.jsonl
 ```
 
-You can load it directly into your scripts or evaluation pipelines depending on your use case.
+You can load it directly into your scripts or evaluation pipelines depending on your use case. Tha ground truth is not publicly available for ensuring high-quality evaluation. You can submit your results in our Leadboard (coming soon).
 
 ---
 
