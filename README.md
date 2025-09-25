@@ -1,6 +1,10 @@
 # 🧮 COUNTERMATH: Counterexample-Driven Conceptual Reasoning in Mathematical LLMs
 *One Example Shown, Many Concepts Known! Counterexample-Driven Conceptual Reasoning in Mathematical LLMs*
 
+Paper Link: [COUNTERMATH](https://arxiv.org/abs/2502.10454).
+
+Leadboard: [COUNTERMATH-Leadboard](https://countermath.github.io/)
+
 Inspired by the pedagogical method of **"proof by counterexamples"** widely used in human mathematics education, our work aims to enhance Large Language Models’ (LLMs) ability to conduct **mathematical reasoning and proof construction** through counterexamples.
 
 Introducing **COUNTERMATH**, a high-quality, university-level mathematical benchmark designed to test whether models can understand abstract mathematical concepts and disprove false statements using counterexamples — a crucial skill in real-world mathematical thinking.
@@ -19,7 +23,7 @@ All evaluation data for COUNTERMATH is stored in the `data/` folder. The main da
 data/countermath_ver1.1.jsonl
 ```
 
-You can load it directly into your scripts or evaluation pipelines depending on your use case. Tha ground truth is not publicly available for ensuring high-quality evaluation. You can submit your results in our Leadboard (coming soon).
+You can load it directly into your scripts or evaluation pipelines depending on your use case. Tha ground truth is not publicly available for ensuring high-quality evaluation. You can submit your results in our Leadboard: [COUNTERMATH-Leadboard](https://countermath.github.io/). For more details about the benchmark, you can visit its official page.
 
 ---
 
